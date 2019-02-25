@@ -20,6 +20,7 @@ type question struct {
 	a ans
 }
 
+// Test_OK 测试通过
 func Test_OK(t *testing.T) {
 	ast := assert.New(t)
 
