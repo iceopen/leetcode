@@ -7,8 +7,11 @@
 
 ## 题目列表
 
-|题号|题目|通过率|执行结果|收藏|
-|:-:|:-|:-: | :-: | :-: |
-|[1](https://leetcode-cn.com/problems/two-sum/)|[1.两数之和](./algorithms/1-two-sum)|91%|简单||
-|[2](https://leetcode-cn.com/problems/add-two-numbers/)|[2.两数相加](./algorithms/1-add-two-numbers)|41%|中等||
-
+|题号|题目|难度|
+|:-:|:-|:-: | :-: |
+|[1](https://leetcode-cn.com/problems/two-sum/)|[1.两数之和](./algorithms/1-two-sum)|简单|
+|[2](https://leetcode-cn.com/problems/add-two-numbers/)|[2.两数相加](./algorithms/1-add-two-numbers)|中等|
+|[3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|[3.无重复字符的最长子串](./algorithms/3-longest-substring-without-repeating-characters)|中等|
+|[4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[4.寻找两个有序数组的中位数](./algorithms/4-median-of-two-sorted-arrays)|困难|
+|[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[5. 最长回文子串](./algorithms/5-longest-palindromic-substring/)|中等|
+|[6](https://leetcode-cn.com/problems/zigzag-conversion/)|[6.Z 字形变换](./algorithms/6-zigzag-conversion)|中等|
