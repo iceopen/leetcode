@@ -43,7 +43,7 @@ func Test_OK(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
-		question{
+		{
 			p: para{
 				one: makeListNode([]int{2, 4, 3}),
 				two: makeListNode([]int{5, 6, 4}),
@@ -52,7 +52,7 @@ func Test_OK(t *testing.T) {
 				one: makeListNode([]int{7, 0, 8}),
 			},
 		},
-		question{
+		{
 			p: para{
 				one: makeListNode([]int{9, 8, 7, 6, 5}),
 				two: makeListNode([]int{1, 1, 2, 3, 4}),
