@@ -25,7 +25,7 @@ func Test_OK(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
-		question{
+		{
 			p: para{
 				one: []int{1, 3},
 				two: []int{2},
@@ -34,7 +34,7 @@ func Test_OK(t *testing.T) {
 				one: 2,
 			},
 		},
-		question{
+		{
 			p: para{
 				one: []int{1, 3},
 				two: []int{2, 4},
