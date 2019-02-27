@@ -15,3 +15,6 @@
 |[4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[4.寻找两个有序数组的中位数](./algorithms/4-median-of-two-sorted-arrays)|困难|
 |[5](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[5. 最长回文子串](./algorithms/5-longest-palindromic-substring/)|中等|
 |[6](https://leetcode-cn.com/problems/zigzag-conversion/)|[6.Z 字形变换](./algorithms/6-zigzag-conversion)|中等|
+|[7](https://leetcode-cn.com/problems/reverse-integer/)|[7.整数反转](./algorithms/2-reverse-integer)|简单|
+|[665](https://leetcode-cn.com/problems/non-decreasing-array/)|[665.非递减数列](./algorithms/665-non-decreasing-array)|简单|
+|[976](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[976.整数反转](./algorithms/976-largest-perimeter-triangle)|简单|
