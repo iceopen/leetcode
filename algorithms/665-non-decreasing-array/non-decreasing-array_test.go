@@ -1,9 +1,10 @@
-package _65_non_decreasing_array
+package nonDecreasingArray
 
 import (
 	"fmt"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/stretchr/testify/assert"
 )
 
 // tcs is testcase slice

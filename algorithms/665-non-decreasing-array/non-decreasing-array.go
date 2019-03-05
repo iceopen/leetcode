@@ -1,4 +1,4 @@
-package _65_non_decreasing_array
+package nonDecreasingArray
 
 import "sort"
 
