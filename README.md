@@ -20,7 +20,7 @@
 |[13](https://leetcode-cn.com/problems/roman-to-integer/)|[13.罗马数字转整数](./algorithms/13-roman-to-integer)|简单|
 |[14](https://leetcode-cn.com/problems/longest-common-prefix/)|[9.回文数](./algorithms/14-longest-common-prefix)|简单|
 |[36](https://leetcode-cn.com/problems/valid-sudoku/)|[36.有效的数独](./algorithms/36-valid-sudoku)|中等|
-|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[20.有效的括号](./algo rithms/20-valid-parentheses)|简单|
+|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[20.有效的括号](./algorithms/20-vvalid-parentheses)|简单|
 |[283](https://leetcode-cn.com/problems/move-zeroes/)|[283.移动零](./algorithms/283-move-zeroes)|简单|
 |[344](https://leetcode-cn.com/problems/reverse-string/)|[344.反转字符串](./algorithms/344-reverse-string)|简单|
 |[387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)|[387. 字符串中的第一个唯一字符](./algorithms/387-first-unique-character-in-a-string)|简单|
