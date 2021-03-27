@@ -19,7 +19,7 @@
 |[9](https://leetcode-cn.com/problems/palindrome-number/)|[9.回文数](./algorithms/9-palindrome-number)|简单|
 |[13](https://leetcode-cn.com/problems/roman-to-integer/)|[13.罗马数字转整数](./algorithms/13-roman-to-integer)|简单|
 |[14](https://leetcode-cn.com/problems/longest-common-prefix/)|[9.回文数](./algorithms/14-longest-common-prefix)|简单|
-|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[9.回文数](./algo rithms/20-valid-parentheses)|简单|
+|[20](https://leetcode-cn.com/problems/valid-parentheses/)|[20.有效的括号](./algo rithms/20-valid-parentheses)|简单|
 |[665](https://leetcode-cn.com/problems/non-decreasing-array/)|[665.非递减数列](./algorithms/665-non-decreasing-array)|简单|
 |[976](https://leetcode-cn.com/problems/largest-perimeter-triangle/)|[976.整数反转](./algorithms/976-largest-perimeter-triangle)|简单|
 
