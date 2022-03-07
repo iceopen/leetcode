@@ -1,4 +1,4 @@
-module leetcode
+module github.com/iceopen/leetcode
 
 go 1.15
 
