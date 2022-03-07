@@ -1,4 +1,4 @@
-package twoSum
+package two_sum
 
 func twoSum(nums []int, target int) []int {
 	// index 负责保存map[整数]整数的序列号

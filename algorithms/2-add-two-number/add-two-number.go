@@ -1,4 +1,4 @@
-package addTwoNumber
+package add_two_number
 
 // ListNode 本地案例需要
 type ListNode struct {

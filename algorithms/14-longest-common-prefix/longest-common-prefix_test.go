@@ -1,4 +1,4 @@
-package longestCommonPrefix
+package longest_commonPrefix
 
 import (
 	"testing"

@@ -1,4 +1,4 @@
-package palindromeNumber
+package palindrome_number
 
 import "strconv"
 

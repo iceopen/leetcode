@@ -1,4 +1,4 @@
-package longestCommonPrefix
+package longest_commonPrefix
 
 func longestCommonPrefix(strs []string) string {
 	short := shortLong(strs)

@@ -1,4 +1,4 @@
-package romanToInteger
+package roman_to_integer
 
 func romanToInt(s string) int {
 	res := 0

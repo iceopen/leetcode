@@ -1,4 +1,4 @@
-package validParentheses
+package valid_parentheses
 
 func isValid(s string) bool {
 	size := len(s)

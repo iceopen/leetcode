@@ -1,4 +1,4 @@
-package longestPalindromicSubstring
+package longest_palindromic_substring
 
 func longestPalindrome(s string) string {
 	if len(s) < 2 { // 肯定是回文，直接返回

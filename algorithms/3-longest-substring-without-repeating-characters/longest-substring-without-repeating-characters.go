@@ -1,4 +1,4 @@
-package longestSubstringWithoutRepeatingCharacters
+package longest_substring_without_repeating_characters
 
 func lengthOfLongestSubstring(s string) int {
 	location := [256]int{} // 只有256长是因为，假定输入的字符串只有ASCII字符
