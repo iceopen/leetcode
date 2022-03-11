@@ -28,12 +28,11 @@ func Test_MoveZeroes(t *testing.T) {
 	ast := assert.New(t)
 
 	qs := []question{
-
-		question{
+		{
 			para{[]int{1, 0, 1, 0, 3, 12}},
 			ans{[]int{1, 1, 3, 12, 0, 0}},
 		},
-		question{
+		{
 			para{[]int{0, 1, 0, 3, 12}},
 			ans{[]int{1, 3, 12, 0, 0}},
 		},

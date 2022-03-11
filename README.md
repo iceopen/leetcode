@@ -2,7 +2,7 @@
 
 力扣 (LeetCode) - 全球极客挚爱的技术成长平台
 
-[![Build Status](https://travis-ci.org/iceopen/leetcode.svg?branch=master)](https://travis-ci.org/iceopen/leetcode)
+[![Build Status](https://cloud.drone.io/api/badges/iceopen/leetcode/status.svg)](https://cloud.drone.io/iceopen/leetcode)
 [![Go Report Card](https://goreportcard.com/badge/github.com/iceopen/leetcode)](https://goreportcard.com/report/github.com/iceopen/leetcode)
 
 ## 题目列表
